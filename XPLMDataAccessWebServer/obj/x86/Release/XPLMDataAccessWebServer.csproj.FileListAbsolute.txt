@@ -1,0 +1,1 @@
+D:\privat\Programmierung\XPlane\releases\XPLMDataAccessWebServer_Source_0.1\XPLMDataAccessWebServer\bin\Release\XPLMDataAccessWebServer.exe.config
