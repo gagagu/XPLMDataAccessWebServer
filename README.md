@@ -18,8 +18,10 @@ The XPLMDataAccess Web Server is an extension of my XPLMDataAccess Plug-In proje
 
 ## Important Information:
 •The web server must be stared on the same system where x-plate starts.
+
 •The default port (1337) can be changed by start the XPLMDataAccessWebServer.exe via shell (or batch) with the number of desired port.
  Example: XPLMDataAccessWebServer.exe 4444
+ 
 •The web server must be run with administrator privileges (especially important for Win7/8)
 
  
